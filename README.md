@@ -22,6 +22,6 @@ Currently Learning new Languages and Tech Stacks<br>Running Homelab for 3 years 
 ![](https://github-contributor-stats.vercel.app/api?username=jitendhull&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jitendhull&icon=10&color=13)](https://visitcount.itsvg.in)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jitendhull&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
