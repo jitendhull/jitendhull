@@ -1,5 +1,9 @@
 # 💫 About Me:
-Currently Learning new Languages and Tech Stacks<br>Running Homelab for 3 years containing personal and public services<br>Maintaining Uptime of around 98% to 99% for past year<br>Using Docker, Linux, Github, Git, Aws, Oracle, GCP 
+I run a homelab (going on 3 years now) — a mix of personal projects  
+and a few public-facing services, holding steady at ~98–99% uptime.
+
+Always picking up something new, whether it's a language or a tool  
+I haven't broken yet.
 
 
 ## 🌐 Socials:
