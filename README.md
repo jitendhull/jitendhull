@@ -21,7 +21,7 @@ I run a personal HomeLab where I self-host various services for both learning an
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Development Tools** | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Current Focus** | ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-E00?style=for-the-badge&logo=kali-linux&logoColor=white) ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
@@ -31,18 +31,17 @@ I run a personal HomeLab where I self-host various services for both learning an
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jitendhull&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendhull&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- **Portfolio/Dashboard:** [https://your-homelab-domain.com](https://your-homelab-domain.com)
-- **LinkedIn:** [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Twitter/X:** [@your_handle](https://twitter.com/your_handle)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Portfolio/Dashboard:** [https://jitendhull.tech](https://jitendhull.tech)
+- **LinkedIn:** [https://linkedin.com/in/jitendhull](https://linkedin.com/in/jitendhull)
+- **Email:** [jitendhull@proton.me](mailto:jitendhull@proton.me)
 
 ---
 
