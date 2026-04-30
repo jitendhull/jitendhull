@@ -1,10 +1,10 @@
 # 💫 About Me:
-I run a homelab (going on 3 years now) — a mix of personal projects  
-and a few public-facing services, holding steady at ~98–99% uptime.
+I run a homelab (going on 3 years now) — a mix of personal projects and a few public-facing services, holding steady at ~98–99% uptime.
 
 Always picking up something new, whether it's a language or a tool  
 I haven't broken yet.
 
+## LEARNING NEW THINGS DAILY MIGHT UPDATE THIS LATER WHEN I HAVE MORE THINGS TO UPDATE
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/J8zrTuGTjK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jitendhull) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jitendhull) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jaggu762) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitendhull@proton.me) 
